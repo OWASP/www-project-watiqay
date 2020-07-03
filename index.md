@@ -2,21 +2,28 @@
 
 layout: col-sidebar
 title: OWASP Watiqay
-tags: example-tag
-level: 1
+tags: watiqay
 type: 
-pitch: A very brief, one-line description of your project
+pitch: Watiqay is a Quechua word (indigenous language of Peru), which means observe or monitor and is exactly what characterizes this tool.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## OWASP Watiqay
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Watiqay is a Quechua word (indigenous language of Peru), which means observe or monitor and is exactly what characterizes this tool.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+### Description
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+![image](/assets/images/watiqay_logo.png)
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+OWASP Watiqay is a tool that perform corrective actions when it detects that the website has been compromised. Thus, through a continuous integrity monitoring of the server will allow to know if unauthorized changes made ​​at the application project, since the system of real-time monitoring Watiqay can detect and alert when the site structure and functions has changed and depending on the predefined actions by the administrator will execute an automatic reaction.
 
-type: code, tool, documentation, or other
+Watiqay is a Quechua word (indigenous language of Peru), which means observe or monitor and is exactly what characterizes this tool.
+
+
+Among the functions that exist, we have: - Block the possible attackers IPs or Hostnames.
+
+- Put all site in inactive mode. 
+- Restore files automatically or altered website, etc.
+
+
