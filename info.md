@@ -17,4 +17,4 @@
 
 ### Licensing
 
-* [Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0)
+* MIT Licence
